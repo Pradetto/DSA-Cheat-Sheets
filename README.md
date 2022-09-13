@@ -45,7 +45,7 @@ Just a current updated excel document as I work through the grind 75 and my note
 
 
 ### Created By: Michael Pradetto | Contact Me: [Linkedin](https://www.linkedin.com/in/michael-pradetto/)
-
+If you found this repository useful please star it to support me!
 
 
 
