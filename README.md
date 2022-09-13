@@ -24,7 +24,7 @@ The is an all inclusive flashcard sets that covers common data structure and alg
 |Coming Soon: Math Logic & Puzzles|
 |Coming Soon: System Design and Scalability|
 
-## Common Data Structures and Algorithms Solution Templates
+## Common Data Structures and Algorithms Patterns & Templates
 This is a unique list of DSA templates and common questions I have encountered while studying Leetcode / Grind 75. It is a great resource to practice the nuances of some of the problems to recognize the patterns.
 
 [DSA Templates](https://github.com/Pradetto/DSA-Cheat-Sheets/tree/main/DSA%20Common%20Patterns%20and%20Templates)
