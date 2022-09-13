@@ -9,7 +9,7 @@ Visual Learners like me: I took this DSA Udemy Course only buy on sale for $9.99
 
 Youtubers for Leetcode solutions: [Neetcode](https://www.youtube.com/c/NeetCode) and [HappyCoding](https://www.youtube.com/channel/UCnIYOzDChH7V8s5BqvjGSEQ)
 
-## Data Structures and Algorithms Flashcards:
+## Data Structures and Algorithms Flashcards
 The is an all inclusive 450+ flashcard set that covers common data structure and algorithms topics. I have shared 2 decks (both have the same cards). The first one is the traditional Anki study methods if you have extra time because it limits the amount of cards you can study. The second deck is all the cards without any restrictions good for cramming or specific topic studying prior to practicing leetcode. Yes, [ANKI](https://apps.ankiweb.net/) is FREE.
 
 [Anki Flashcard Set by Michael Pradetto](https://github.com/Pradetto/DSA-Cheat-Sheets/tree/main/Anki%20Flashcards)
