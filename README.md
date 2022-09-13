@@ -4,6 +4,7 @@ Last updated: 09/13/2022
 Recommended study method -> Grind 75 Problems sort by topics -> Anki Flashcards study a single topic -> practice Grind 75 questions of this topic -> if stuck on topic go to Common Data Structure and Algorithms Patterns / Templates files and spend time in the debugger stepping through common patterns to derive a a solution
 
 DSA Udemy Course I took (Highly recommend & good community): [ZTM Master Coding Interview DSA](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+
 Youtubers for Leetcode solutions: Neetcode and HappyCoding
 
 ## Data Structures and Algorithms Flashcards:
