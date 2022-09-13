@@ -2,7 +2,7 @@
 Last updated: 09/13/2022
 
 ## Data Structures and Algorithms Flashcards:
-The is an all inclusive flashcard sets that covers common data structure and algorithms topics. 
+The is an all inclusive 450+ flashcard set that covers common data structure and algorithms topics. 
 
 [Anki Flashcard Set by Michael Pradetto](https://github.com/Pradetto/DSA-Cheat-Sheets/tree/main/Anki%20Flashcards)
 
