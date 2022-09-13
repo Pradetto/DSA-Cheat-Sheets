@@ -51,6 +51,7 @@ This is a unique list of DSA templates and common questions I have encountered w
 Just a current updated excel document as I work through the grind 75 and my notes / thoughts. Feel free to download the file and work through these problems yourself and include your notes!
 
 [Grind 75 Excel File](https://github.com/Pradetto/DSA-Cheat-Sheets/tree/main/Grind%2075%20Notes%20Excel%20Document)
+[Build Your Own Leetcode Study Plan](https://www.techinterviewhandbook.org/grind75)
 
 
 ## Miscellaneous Information
