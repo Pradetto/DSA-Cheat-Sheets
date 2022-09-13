@@ -3,7 +3,9 @@ Last updated: 09/13/2022
 
 Recommended study method -> Grind 75 Problems sort by topics -> Anki Flashcards study a single topic -> practice Grind 75 questions of this topic -> if stuck on topic go to Common Data Structure and Algorithms Patterns / Templates files and spend time in the debugger stepping through common patterns to derive a a solution
 
-DSA Udemy Course I took only buy on sale for $9.99 (Highly recommend & good community): [ZTM Master the Coding Interview DSA](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+If you are new to DSA, I highly recommend reading through this free material of the creator of Blind 75. It covers all DSA topics and provides free study material along with a Leetcode problem study plan. [Technical Interview Guide](https://www.techinterviewhandbook.org/)
+
+Visual Learners like me: I took this DSA Udemy Course only buy on sale for $9.99 (Highly recommend & good community): [ZTM Master the Coding Interview DSA](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 
 Youtubers for Leetcode solutions: [Neetcode](https://www.youtube.com/c/NeetCode) and [HappyCoding](https://www.youtube.com/channel/UCnIYOzDChH7V8s5BqvjGSEQ)
 
