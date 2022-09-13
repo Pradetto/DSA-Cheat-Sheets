@@ -1,6 +1,6 @@
-# DSA-Cheat-Sheets
+# DSA-Cheat-Sheets (Python)
 
-## Data Structures and Algorithms Flashcards (Python):
+## Data Structures and Algorithms Flashcards:
 The is an all inclusive flashcard sets that covers common data structure and algorithms topics. 
 
 [Ankie Flashcard Set by Michael Pradetto]("here")
