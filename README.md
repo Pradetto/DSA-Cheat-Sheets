@@ -3,7 +3,7 @@
 ## Data Structures and Algorithms Flashcards:
 The is an all inclusive flashcard sets that covers common data structure and algorithms topics. 
 
-[Ankie Flashcard Set by Michael Pradetto](https://github.com/Pradetto/DSA-Cheat-Sheets/tree/main/Anki%20Flashcards)
+[Anki Flashcard Set by Michael Pradetto](https://github.com/Pradetto/DSA-Cheat-Sheets/tree/main/Anki%20Flashcards)
 
 |Topic(s)|
 | --- |
