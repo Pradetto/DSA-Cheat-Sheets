@@ -1,4 +1,4 @@
-# DSA-Cheat-Sheets (Primarily in Python)
+# DSA-Cheat-Sheets (Python Based Solutions)
 Last updated: 09/13/2022
 
 ## Data Structures and Algorithms Flashcards:
