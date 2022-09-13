@@ -1,13 +1,14 @@
 # DSA Cheat Sheets (Python Based Solutions)
 Last updated: 09/13/2022
 
-Recommended study method -> Grind 75 Problems sort by topics -> Anki Flashcards study a single topic -> practice Grind 75 questions of this topic -> if stuck on topic go to Common Data Structure and Algorithms Patterns / Templates files and spend time in the debugger stepping through common patterns to derive a a solution
+## Overview
 
-If you are new to DSA, I highly recommend reading through this free material by the creator of Blind 75. It covers all DSA topics and provides free study material for each topic along with a Leetcode problem study plan. [Technical Interview Guide](https://www.techinterviewhandbook.org/)
+Hi there! My name is Michael Pradetto. Over the course of studying for multiple months for the coding interviews, I have compiled a lot of study material I'd like to give back like other individuals who supported me on this journey. In my compiled study material I have an Anki Flashcard Deck I created that covers all topics over 450+ flashcards, a compiled list of common data structures and algorithms patterns / templates, and the list of Leetcode questions I practiced on with notes about how to solve them. Hopefully this can save everyone some time without having to compile your own study information to continue the journey! Good luck everyone it is a fun Journey!
 
-Visual Learners like me: I took this DSA Udemy Course only buy on sale for $9.99 (Highly recommend & good community): [ZTM Master the Coding Interview DSA](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
-
-Youtubers for Leetcode solutions: [Neetcode](https://www.youtube.com/c/NeetCode) and [HappyCoding](https://www.youtube.com/channel/UCnIYOzDChH7V8s5BqvjGSEQ)
+1) Recommended study method -> Grind 75 Problems sort by topics -> Anki Flashcards study a single topic -> practice Grind 75 questions of this topic -> if stuck on topic go to Common Data Structure and Algorithms Patterns / Templates files and spend time in the debugger stepping through common patterns to derive a a solution
+2) If you are new to DSA, I highly recommend reading through this free material by the creator of Blind 75. It covers all DSA topics and provides free study material for each topic along with a Leetcode problem study plan. [Technical Interview Guide](https://www.techinterviewhandbook.org/)
+3) Visual Learners like me: I took this DSA Udemy Course only buy on sale for $9.99 (Highly recommend & good community): [ZTM Master the Coding Interview DSA](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+4) Youtubers for Leetcode solutions: [Neetcode](https://www.youtube.com/c/NeetCode) and [HappyCoding](https://www.youtube.com/channel/UCnIYOzDChH7V8s5BqvjGSEQ)
 
 ## Data Structures and Algorithms Flashcards
 The is an all inclusive 450+ flashcard set that covers common data structure and algorithms topics. I have shared 2 decks (both have the same cards). The first one is the traditional Anki study methods if you have extra time because it limits the amount of cards you can study. The second deck is all the cards without any restrictions good for cramming or specific topic studying prior to practicing leetcode. Yes, [ANKI](https://apps.ankiweb.net/) is FREE.
