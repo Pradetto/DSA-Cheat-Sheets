@@ -1,4 +1,5 @@
 # DSA-Cheat-Sheets (Python)
+Last updated: 09/13/2022
 
 ## Data Structures and Algorithms Flashcards:
 The is an all inclusive flashcard sets that covers common data structure and algorithms topics. 
