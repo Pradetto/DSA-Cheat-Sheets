@@ -26,7 +26,7 @@ The is an all inclusive 450+ flashcard set that covers common data structure and
 |Coming Soon: System Design and Scalability|
 
 ## Common Data Structures and Algorithms Patterns & Templates
-This is a unique list of DSA templates and common questions I have encountered while studying Leetcode / Grind 75. It is a great resource to practice the nuances of some of the problems to recognize the patterns.
+This is a unique list of DSA templates and common questions I have encountered while studying Leetcode / Grind 75. It is a great resource to practice the nuances of some of the problems to recognize the patterns. I would recommend running the python file to see how the questions answers appear in the terminal then you can go to the section you want to study. This document is really good for spending time in the debugger stepping through problems you are struggling with.
 
 [DSA Templates](https://github.com/Pradetto/DSA-Cheat-Sheets/tree/main/DSA%20Common%20Patterns%20and%20Templates)
 
