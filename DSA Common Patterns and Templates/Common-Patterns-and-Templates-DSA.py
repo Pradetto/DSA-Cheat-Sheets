@@ -1,13 +1,3 @@
-# 1.) Letter Combinations of a Phone Number
-# 2.) Generate Parentheses
-# 3.) Permutations
-# 4.) Permutations II
-# 5.) Combinations
-# 6.) Subsets
-# 7.) Subsets II
-# 8.) N-Queens
-
-# https://www.youtube.com/watch?v=1xTBdwghlTo
 from collections import deque
 print(
     '******************************************************************************')
@@ -477,9 +467,6 @@ print(subsetsWithDup([1, 2, 2]), '\n')
 '''
 Combination Sum I
 
-
-
-
 Given an array of distinct integers candidates and a target integer target, return a list of all unique combinations of candidates where the chosen numbers sum to target. You may return the combinations in any order.
 
 The same number may be chosen from candidates an unlimited number of times. Two combinations are unique if the frequency of at least one of the chosen numbers is different.
@@ -545,7 +532,6 @@ print(s.combinationSum([2, 3, 6, 7], 7))
 Combination Sum II
 
 
-
 Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sum to target.
 
 Each number in candidates may only be used once in the combination.
@@ -583,28 +569,6 @@ Constraints:
 
 class Solution11:
     def combinationSum2(self, candidates, target):
-        # candidates.sort()
-        # res = []
-
-        # def helper(start, combo, target):
-        #     if target == 0:
-        #         res.append(combo.copy())
-
-        #     if target <= 0:
-        #         return
-
-        #     prev = -1
-        #     for i in range(start, len(candidates)):
-        #         if candidates[i] == prev:
-        #             continue
-        #         combo.append(candidates[i])
-        #         helper(start + 1, combo, target-candidates[i])
-        #         combo.pop()
-        #         prev = candidates[i]
-
-        # helper(0, [], target)
-        # return res
-
         candidates.sort()
 
         res = []
@@ -626,7 +590,27 @@ class Solution11:
 
         backtrack([], 0, target)
         return res
+        # candidates.sort()
+        # res = []
 
+        # def helper(start, combo, target):
+        #     if target == 0:
+        #         res.append(combo.copy())
+
+        #     if target <= 0:
+        #         return
+
+        #     prev = -1
+        #     for i in range(start, len(candidates)):
+        #         if candidates[i] == prev:
+        #             continue
+        #         combo.append(candidates[i])
+        #         helper(start + 1, combo, target-candidates[i])
+        #         combo.pop()
+        #         prev = candidates[i]
+
+        # helper(0, [], target)
+        # return res
 
 s = Solution11()
 print('\nSolution 11')
@@ -786,7 +770,7 @@ So essentially you need a complete binary tree (means there is no gaps in betwee
 Probably wont be asked how to implement a heap from scratch but it is good to know how it works conceptually
 '''
 
-# # Python program for implementation of heap Sort
+# # Python program for implementation of heap Sort probably not needed but good conceptually
 
 # # To heapify subtree rooted at index i.
 # # n is size of heap
@@ -849,7 +833,6 @@ print('Binary Trees, Traversals and BST Recursive/Iterative Implementation')
 
 '''
 Inorder Traversal Steps (Recursive and Iterative):
-**** NEED TO ADD ITERATIVE CALL *****
 
 1) Visit Left Subtree Recursively
 2) Visit Root (or Subtree root)
@@ -1095,7 +1078,6 @@ bst.insert(31)
 bst.insert(42)
 print(bst.preorderTraversal())
 
-
 '''
 Post-Order Traversal
 1) Visit Left Subtree Recursively
@@ -1112,7 +1094,6 @@ Result: AB+
 '''
 
 print('\nPostOrder Traversal BST')
-
 
 class Node3:
 
