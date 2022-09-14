@@ -1,5 +1,7 @@
 # DSA Cheat Sheets
-Last updated: 09/14/2022 | DSA is Language Agnostic but the following solutions and examples are written in Python
+Last updated: 09/14/2022 | DSA is Language Agnostic but the following solutions and examples are written in Python.
+
+TLDR: [JUST GIVE ME THE FLASHCARDS](https://github.com/Pradetto/DSA-Cheat-Sheets/tree/main/Anki%20Flashcards)
 
 ## Overview
 
