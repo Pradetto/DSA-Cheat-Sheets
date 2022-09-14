@@ -69,3 +69,4 @@ If you found this repository useful you can support me by hitting the star on th
 ###### [Jawasham's Coding Interview University](https://github.com/jwasham/coding-interview-university)
 ###### [Neetcodes 75 Leetcode Problems and Solutions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
 ###### [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
+###### [Leetcode Questions Asked Frequency Data by Company](https://github.com/hxu296/leetcode-company-wise-problems-2022#amazon)
