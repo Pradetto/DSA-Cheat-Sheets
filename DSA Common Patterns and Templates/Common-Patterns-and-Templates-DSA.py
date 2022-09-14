@@ -686,7 +686,7 @@ Insertion Sort
 Time: O(n^2)
 Space: O(1)
 
-Good for nearly sorted list or sort lists can almost run O(n)
+Good for nearly sorted list or short lists can almost run O(n)
 '''
 
 print('\nInsert Sort')
