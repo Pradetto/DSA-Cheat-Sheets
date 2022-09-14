@@ -1,3 +1,10 @@
+# Here are the common patterns / templates I used in my studies:
+# 1) Backtracking
+# 2) Sorting Algorithms
+# 3) Binary Trees, Traversals and BST Recursive/Iterative Implementation
+# 4) Graphs / Grids
+# 5) Heaps & Priority Queues
+
 from collections import deque
 print(
     '******************************************************************************')
