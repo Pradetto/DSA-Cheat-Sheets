@@ -1,5 +1,5 @@
-# DSA Cheat Sheets (Python Based Solutions)
-Last updated: 09/14/2022
+# DSA Cheat Sheets
+Last updated: 09/14/2022 | DSA is Language Agnostic but the following solutions and examples are written in Python
 
 ## Overview
 
