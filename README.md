@@ -57,6 +57,11 @@ Just a current updated excel document as I work through the grind 75 and my note
 
 [Build Your Own Leetcode Study Plan](https://www.techinterviewhandbook.org/grind75)
 
+## Math Resources (Optional - Free YT Videos)
+[Calculus I, Linear Algebra, Statistics](https://www.youtube.com/watch?v=Qc19jQWHdL0)
+- The above link takes you to his introductory video but he has playlists for each topic. The information is new and was released in 2022.
+[Discrete Math](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
+**Please Note: Always supplement your videos with additional learning materials**
 
 ## Miscellaneous Information
 
