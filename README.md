@@ -70,8 +70,6 @@ Just a current updated excel document as I work through the grind 75 and my note
 If you have additional information anyone else compiled on their own journey and would like to share with others who are about to embark on this journey feel free to reach out to me and I can upload it. Discord: Detto#3455
 
 ### Created By: Michael Pradetto | Contact Me: [Linkedin](https://www.linkedin.com/in/michael-pradetto/)
-If you found this repository useful you can support me by hitting the star on the repository and or Buying Me a Coffee!
-☕ [Buy Me a Coffee](https://www.buymeacoffee.com/pradetto)
 
 
 ###### Extra Material:
